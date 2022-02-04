@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0137f4a3.css",
+    "main.js": "/React-Portfolio/static/js/main.e2ef1317.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/TuneItUp.jpg": "/React-Portfolio/static/media/TuneItUp.6376c9557b1ab2518e34.jpg",
+    "static/media/Screenshot 2022-01-16 190211.jpg": "/React-Portfolio/static/media/Screenshot 2022-01-16 190211.0e0cba2e5f9e2849f20a.jpg",
+    "static/media/Relaxn.jpg": "/React-Portfolio/static/media/Relaxn.1dd7a235e2c954faf6c2.jpg",
+    "static/media/Employee-Tracker.jpg": "/React-Portfolio/static/media/Employee-Tracker.5368ab3629e9f66f207c.jpg",
+    "static/media/Read-Me-Generator.jpg": "/React-Portfolio/static/media/Read-Me-Generator.b4eb077161d8316c48c1.jpg",
+    "static/media/NoteTaker.jpg": "/React-Portfolio/static/media/NoteTaker.2b55cc8402ecfe0d9d68.jpg",
+    "static/media/Budget-Tracker.jpg": "/React-Portfolio/static/media/Budget-Tracker.804fd59e5e2a0c4cc63a.jpg",
+    "static/media/Brocks-Fantastic-Quiz.jpg": "/React-Portfolio/static/media/Brocks-Fantastic-Quiz.5382a6dc8643b9e42373.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0137f4a3.css.map": "/React-Portfolio/static/css/main.0137f4a3.css.map",
+    "main.e2ef1317.js.map": "/React-Portfolio/static/js/main.e2ef1317.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0137f4a3.css",
+    "static/js/main.e2ef1317.js"
+  ]
+}
