@@ -8,12 +8,12 @@ function Header(props) {
     return(
         
         <header>
-            <div className='container flex-row justify-space-between-lg justify-center align-center'>
+            <div >
 
 
 
                 
-                <h1 className="container flex-row justify-space-between-lg justify-center align-center">Portafolio de Brock</h1>
+                <h1 className='header'>Brocks Portfolio</h1>
             </div>
             {props.children}
         </header>

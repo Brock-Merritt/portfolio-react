@@ -1,0 +1,12 @@
+.bio{
+    border-style:groove;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    -webkit-box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.58); 
+    box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.58);
+    padding: 10px;
+    position: relative;
+    left: 150px;
+    
+}

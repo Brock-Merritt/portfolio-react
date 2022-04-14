@@ -1,6 +1,6 @@
 import React, { useEffect} from "react";
-import { capitalizeFirstLetter } from "../../utils/helpers";
 
+import './index.css'
 
 
 function Nav(props) {
@@ -17,14 +17,15 @@ function Nav(props) {
 
     return ( 
         <nav className="flex-row px-1">
-            <ul className= 'flex-row'>
+            <ul className= 'balls'>
                 {pages.map((page) => {
                     
                     return <ul className = {`text-decoration: none , mx-5 ${currentPage.name === page.name && 'navActive'}`} key= {page.name}>
-                        <button onClick={() => setCurrentPage(page.name)}>
+                        <div className="navButton" onClick={() => setCurrentPage(page.name)}>
                             {page.name}
 
-                        </button>
+                        </div>
+                    
                     
                     </ul>
                     

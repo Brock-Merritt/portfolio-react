@@ -1,0 +1,14 @@
+.navButton{
+    font-size: larger;
+    align-items: center;
+    border-style: groove ;
+    cursor: pointer;
+    width: 400px;
+    background-color: gray;
+    margin-bottom: 10px;
+    position: relative;
+    left: 590px;
+    -webkit-box-shadow: 2px 1px 3px 1px rgba(0,0,0,0.58); 
+    box-shadow: 2px 1px 3px 1px rgba(0,0,0,0.58);
+
+}
